@@ -10,19 +10,4 @@ Using Unity 2020.3.28f1.
 
 The repository is a minimal reproduction.
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/vqbo3rweEmA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-A video:
-```youtube-embed
-{
-   "width": "560",
-   "height": "315",
-   "src": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-   "title": "YouTube video player",
-   "frameborder": "0",
-   "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-   "allowfullscreen": true
-}
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqbo3rweEmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
